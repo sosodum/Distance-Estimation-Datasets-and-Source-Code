@@ -1,2 +1,2 @@
 # Distance Estimation 
-This repository will be accompanied with the paper titled: "Distance estimation from a monocular camera using face and body features".
+This repository will be accompanied with the paper titled: "Distance Estimation from a Monocular Camera Using Face and Body Features".
