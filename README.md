@@ -6,4 +6,5 @@ The distance estimation of objects from a single camera can play a crucial role 
 Paper Link: https://link.springer.com/article/10.1007/s13369-021-06003-w
 
 Cite as: Duman, S., Elewi, A., &amp; Yetgin, Z. (2021). Distance estimation from a monocular camera using face and body features. Arabian Journal for Science and Engineering, 47(2), 1547–1557. https://doi.org/10.1007/s13369-021-06003-w 
+
 Corresponding Author E-mail Address: sonay.duman@toros.edu.tr
